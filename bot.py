@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, ContextTypes
 from flask import Flask
 from threading import Thread
 
-TOKEN = "IL_TUO_TOKEN"
+TOKEN = "8947407608:AAHuNl3unnUZFv6rgMLhvdIHIuc3k-KzwyU"
 
 app_web = Flask(__name__)
 
